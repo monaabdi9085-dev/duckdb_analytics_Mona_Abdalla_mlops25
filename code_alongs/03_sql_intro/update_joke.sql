@@ -7,3 +7,5 @@ SET
 	rating = 10
 WHERE
 	id = 7;
+
+	
