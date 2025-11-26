@@ -22,3 +22,7 @@ SELECT
         WHEN experience_level = 'EX' THEN 'Expert level'
         
     END; 
+
+
+    SELECT Distinct experience_level 
+    FROM data_jobs;
